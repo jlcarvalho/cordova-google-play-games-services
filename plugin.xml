@@ -36,6 +36,8 @@
         <dependency id="android.support.v4" url="https://github.com/MobileChromeApps/cordova-plugin-android-support-v4"  />
 
         <framework src="com.google.android.gms:play-services-games:+" />
+        <framework src="com.google.android.gms:play-services-plus:+" />
+        <framework src="com.google.android.gms:play-services-appstate:+" />
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="GooglePlayGamesPlugin" >
