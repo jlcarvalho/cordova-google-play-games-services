@@ -37,7 +37,6 @@
 
         <framework src="com.google.android.gms:play-services-games:+" />
         <framework src="com.google.android.gms:play-services-plus:+" />
-        <framework src="com.google.android.gms:play-services-appstate:+" />
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="GooglePlayGamesPlugin" >
